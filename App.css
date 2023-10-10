@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding-top: 15px;
+}
+img{
+  width:100%;
+  height:70%;
+  padding-left: 10px;
+}
+.horizontal-align .toast-content {
+  display: inline-flex;
+  flex: 1;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.horizontal-align .toast-content .toast-title {
+  font-weight: 500;
+  color: #fff;
+}
